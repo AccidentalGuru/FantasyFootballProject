@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AA99E2E9A404070F46A95733261BA59BA64590A9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AA99E2E9A404070F46A95733261BA59BA64590A9" : 9223372036854775807,
+    "7C07A52148D51C8B54345E49FEFD266865F78A05" : 9223372036854775807,
+    "D6376ED25488E05598D87ED73306E17E97F48C3A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2841277B-AFC6-4AFD-AE12-8B8AD2703DFB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AA99E2E9A404070F46A95733261BA59BA64590A9" : "FantasyFootball\/",
+    "7C07A52148D51C8B54345E49FEFD266865F78A05" : "..\/Desktop\/sean\/fantasyfootballbackup",
+    "D6376ED25488E05598D87ED73306E17E97F48C3A" : "..\/Desktop\/robert"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "teamFantasy",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "teamFantasy.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sean-crowl\/fantasyfootballbackup.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7C07A52148D51C8B54345E49FEFD266865F78A05"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/davidscottbowen\/FantasyFootball.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AA99E2E9A404070F46A95733261BA59BA64590A9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/davidscottbowen\/teamFantasy.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D6376ED25488E05598D87ED73306E17E97F48C3A"
+    }
+  ]
+}

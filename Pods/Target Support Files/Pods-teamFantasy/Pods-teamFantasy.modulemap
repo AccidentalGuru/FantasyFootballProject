@@ -1,0 +1,6 @@
+framework module Pods_teamFantasy {
+  umbrella header "Pods-teamFantasy-umbrella.h"
+
+  export *
+  module * { export * }
+}
